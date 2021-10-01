@@ -55,3 +55,11 @@ kbd {
   letter-spacing: 1px;
   color: chartreuse;
 }
+
+.back-link {
+  position: absolute;
+  color: cadetblue;
+  top: 20px;
+  left: 20px;
+  text-decoration: none;
+}
