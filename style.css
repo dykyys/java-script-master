@@ -1,3 +1,18 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
+  padding: 30px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list__item:not(:last-child) {
+  margin-bottom: 15px;
 }
